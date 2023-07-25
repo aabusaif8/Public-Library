@@ -1,0 +1,6 @@
+# hello world
+No other formatting is needed to write simple paragraphs.
+add _emphasis_ add **bold**
+
+
+This is a link to [GitHub](http://github.com).
